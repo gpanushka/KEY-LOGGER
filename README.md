@@ -1,4 +1,4 @@
-This is my fourth task as a Cyber Security Intern at Prodigy InfoTech where I was supposed to create a basic keylogger program that records and logs keystrokes.
+I created a basic keylogger program that records and logs keystrokes.
 
 Keylogging is a malicious practice where software or hardware is used to secretly record the keys pressed on a keyboard. This stolen information can be used for various cybercrimes, making it a significant security threat.
 
